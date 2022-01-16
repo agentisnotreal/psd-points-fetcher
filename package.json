@@ -1,0 +1,22 @@
+{
+  "name": "psd-points-fetcher",
+  "version": "1.0.0",
+  "description": "A basic code sample to fetch the security points of a user on the Plasma Security Division points spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentisnotreal/psd-points-fetcher.git"
+  },
+  "author": "agentisnotreal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agentisnotreal/psd-points-fetcher/issues"
+  },
+  "homepage": "https://github.com/agentisnotreal/psd-points-fetcher#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
